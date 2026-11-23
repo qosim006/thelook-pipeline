@@ -1,0 +1,10 @@
+.env
+*.json
+__pycache__/
+*.pyc
+logs/
+airflow.cfg
+airflow.db
+
+.env
+gcp_creds.json
